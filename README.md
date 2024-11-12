@@ -1,9 +1,9 @@
-# Hi 👋 I'm **[Your Name]**
+# Hi 👋 I'm **Richmond**
 
 ---
 
 ## 🧑‍💻 **About Me:**
-I am a **[Your Year or Position]** **[Your Major/Field]** student at **[Your University/Organization]**, passionate about **[your passions, like coding, app development, etc.]**.
+I am a **[Your Year or Position]** **Computer Science minoring in Buiness Analysis** student at **[Your University/Organization]**, passionate about **[your passions, like coding, app development, etc.]**.
 
 ---
 
