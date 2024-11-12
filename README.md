@@ -1,22 +1,22 @@
-# Hi 👋 I'm [Your Name]
+# Hi 👋 I'm **[Your Name]**
 
 ---
 
-## 🧑‍💻 About Me:
-I am a [Your Year or Position] [Your Major/Field] student at [Your University/Organization], passionate about [your passions, like coding, app development, etc.].
+## 🧑‍💻 **About Me:**
+I am a **[Your Year or Position]** **[Your Major/Field]** student at **[Your University/Organization]**, passionate about **[your passions, like coding, app development, etc.]**.
 
 ---
 
-## 🚀 What I'm Up To
-- 🌱 [Project or Learning Area #1] with [Technology/Tool #1]
-- 💻 [Project or Learning Area #2] with [Technology/Tool #2]
+## 🚀 **What I'm Up To**
+- 🌱 **[Project or Learning Area #1]** with **[Technology/Tool #1]**
+- 💻 **[Project or Learning Area #2]** with **[Technology/Tool #2]**
 
-Check out my [coding portfolio](your-portfolio-link)!
+Check out my **[coding portfolio](your-portfolio-link)**!
 
 ---
 
-## 📚 About Me
-I'm also an [educational/creative] content creator, sharing my coding passion and advice on:
+## 📚 **About Me**
+I'm also an **[educational/creative]** content creator, sharing my coding passion and advice on:
 
 - [Platform #1 (e.g., Instagram)](your-link-1)
 - [Platform #2 (e.g., TikTok)](your-link-2)
@@ -24,13 +24,13 @@ I'm also an [educational/creative] content creator, sharing my coding passion an
 
 ---
 
-## 🌐 Connect with Me:
+## 🌐 **Connect with Me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInName-blue?style=flat-square&logo=linkedin)](your-linkedin-link)
 
 ---
 
-## 🛠️ Tech Stack:
-### Languages:
+## 🛠️ **Tech Stack:**
+### **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -40,12 +40,12 @@ I'm also an [educational/creative] content creator, sharing my coding passion an
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Developer Tools:
+### **Developer Tools:**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-### Libraries/Frameworks:
+### **Libraries/Frameworks:**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -56,7 +56,7 @@ I'm also an [educational/creative] content creator, sharing my coding passion an
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 **GitHub Stats:**
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
 ---
