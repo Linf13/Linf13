@@ -3,7 +3,7 @@
 ---
 
 ## 🧑‍💻 **About Me:**
-I am a **[Your Year or Position]** **Computer Science minoring in Buiness Analysis** student at **[Your University/Organization]**, passionate about **[your passions, like coding, app development, etc.]**.
+I am a **Sophmore** **Computer Science student minoring in Buiness Analysis** student at **Caldwell University**, passionate about **[your passions, like coding, app development, etc.]**.
 
 ---
 
