@@ -58,7 +58,7 @@ I'm also an **[educational/creative]** content creator, sharing my coding passio
 ---
 
 ## 📊 **GitHub Stats**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=richmond003&show_icons=true&theme=dark)
 
 ---
 
