@@ -24,10 +24,12 @@ I am a **Sophomore Computer Science student**, minoring in **Business Analysis**
 
 ## 🌎 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-link)
+&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/richmond003)
+&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](your-twitter-link)
 
-📧 **Email:** [Your Email](mailto:your-email@example.com)
+📧 **Email:** [richmondbhnyantakyi@gmail.com](mailto:richmondbhnyantakyi@gmail.com)
 
 ---
 
