@@ -2,30 +2,32 @@
 
 ---
 
-## 🧑‍💻 **About Me:**
-I am a **Sophmore** **Computer Science student minoring in Buiness Analysis** student at **Caldwell University**, passionate about **[your passions, like coding, app development, etc.]**.
+![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
+
+## 🧑‍💻 **About Me**
+
+I am a **Sophomore Computer Science student**, minoring in **Business Analysis** at **Caldwell University**. I'm passionate about **AI, Web Development, and Mobile App Development**.
+
+- 🎯 Focused on building scalable and innovative solutions
+- 🚀 Passionate about AI, Cloud Computing, and Full-Stack Development
+- 🎓 Always learning and exploring new technologies
 
 ---
 
 ## 🚀 **What I'm Up To**
-- 🌱 **[Project or Learning Area #1]** with **[Technology/Tool #1]**
-- 💻 **[Project or Learning Area #2]** with **[Technology/Tool #2]**
+- 🌱 **Building an Expense Tracker** with **React.js & Firebase**
+- 💻 **Developing an Authentication Web App** using **Next.js & Firebase Auth**
 
-Check out my **[coding portfolio](your-portfolio-link)**!
-
----
-
-## 📚 **About Me**
-I'm also an **[educational/creative]** content creator, sharing my coding passion and advice on:
-
-- [Platform #1 (e.g., Instagram)](your-link-1)
-- [Platform #2 (e.g., TikTok)](your-link-2)
-- [Platform #3 (e.g., YouTube)](your-link-3)
+🔗 Check out my **[Portfolio](your-portfolio-link)**
 
 ---
 
-## 🌐 **Connect with Me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInName-blue?style=for-the-badge&logo=linkedin)](your-linkedin-link)
+## 🌎 **Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-link)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/richmond003)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](your-twitter-link)
+
+📧 **Email:** [Your Email](mailto:your-email@example.com)
 
 ---
 
@@ -41,40 +43,33 @@ I'm also an **[educational/creative]** content creator, sharing my coding passio
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### **Frameworks & Libraries**
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### **Developer Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-### **Libraries/Frameworks**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ---
 
 ## 📊 **GitHub Stats**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=richmond003&show_icons=true&theme=dark)
+![Richmond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richmond003&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richmond003&layout=compact&theme=radical)
 
 ---
 
-<!-- Optional Footer Message -->
+### 🎨 **GitHub Activity**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richmond003&theme=radical)
+
+---
+
+### 🚀 *"Building solutions, one line of code at a time!"* 🚀
+
 Thanks for visiting my profile! 😊
 
-<!--
-**richmond003/richmond003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
