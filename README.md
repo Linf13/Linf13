@@ -58,7 +58,9 @@ I am a **Sophomore Computer Science student**, minoring in **Business Analysis**
 ---
 
 ## 📊 **GitHub Stats**
-![Richmond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richmond003&show_icons=true&theme=radical)
+<!-- ![Richmond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richmond003&show_icons=true&theme=radical)  -->
+[![Richmond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richmond003&show_icons=true&theme=radical&rank_icon=github&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richmond003&layout=compact&theme=radical)
 
 ---
