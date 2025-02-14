@@ -2,7 +2,9 @@
 
 ---
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
+
+![Profile Banner](https://raw.githubusercontent.com/richmond003/richmond003/main/banner.png)
+
 
 ## 🧑‍💻 **About Me**
 
