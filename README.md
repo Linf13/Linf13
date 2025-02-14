@@ -30,7 +30,7 @@ I am a **Sophomore Computer Science student**, minoring in **Business Analysis**
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/richmond003)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](your-twitter-link)
 
-📧 **Email:** [Your Email](mailto:your-email@example.com)
+📧 **Email:** [richmondbhnyantakyi@gmail.com](mailto:richmndbhnyantakyi@gmail.com)
 
 ---
 
