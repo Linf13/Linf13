@@ -41,7 +41,6 @@ I am a **Sophomore Computer Science student**, minoring in **Business Analysis**
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![C++](https://skillicons.dev/icons?i=cpp)
-![SQL](https://skillicons.dev/icons?i=postgres)
 
 ### **Frameworks & Libraries**
 ![React.js](https://skillicons.dev/icons?i=react)
