@@ -3,7 +3,8 @@
 ---
 
 
-![Profile Banner](https://raw.githubusercontent.com/richmond003/richmond003/main/banner.png)
+![Profile Banner]([https://source.unsplash.com/featured/?technology,programming](https://unsplash.com/photos/a-close-up-of-a-computer-screen-with-a-lot-of-text-on-it-dwigDz0t6TY))
+
 
 
 ## 🧑‍💻 **About Me**
