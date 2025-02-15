@@ -16,7 +16,7 @@ I am a **Sophomore Computer Science student**, minoring in **Business Analysis**
 
 ## 🚀 **What I'm Up To**
 - 🌱 **Building an Expense Tracker** with **React.js & Firebase**
-- 💻 **Developing an Authentication Web App** using **Next.js & Firebase Auth**
+- 💻 **Developing an Authentication Web App** using **express.js, passport.js & postgress for persistance**
 
 🔗 Check out my **[Portfolio](your-portfolio-link)**
 
