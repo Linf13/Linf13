@@ -2,7 +2,7 @@
 
 ---
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
+![Profile Banner](https://unsplash.com/photos/turned-on-gray-laptop-computer-XJXWbfSo2f0)
 
 ## 🧑‍💻 **About Me**
 
