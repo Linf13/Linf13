@@ -1,4 +1,4 @@
-# Hi 👋 I'm **Richmond**
+# Hey there 👋 I'm **Richmond**
 
 ---
 
