@@ -1,4 +1,4 @@
-# Hey there 👋 I'm **Richmond**
+# Hey there 👋 **I'm Forlinf**
 
 ---
 
@@ -7,19 +7,9 @@
 
 ## 🧑‍💻 **About Me**
 
-I am a **Sophomore Computer Science student**, minoring in **Business Analysis** at **Caldwell University**. I'm passionate about **AI, Web Development, and Mobile App Development**.
+I am a **Junior Computer Science student**, minoring in **Data Analysis** at **Caldwell University**. I'm passionate about **AI, Web Development, and Mobile App Development**.
 
-- 🎯 Focused on building scalable and innovative solutions
-- 🚀 Passionate about AI, Cloud Computing, and Full-Stack Development
-- 🎓 Always learning and exploring new technologies
 
----
-
-## 🚀 **What I'm Up To**
-- 🌱 **Building an Expense Tracker** with **React.js & Firebase**
-- 💻 **Developing an Authentication Web App** using **express.js, passport.js & postgress for persistance**
-
-🔗 Check out my **[Portfolio](your-portfolio-link)**
 
 ---
 
@@ -59,22 +49,6 @@ I am a **Sophomore Computer Science student**, minoring in **Business Analysis**
 ![Notion](https://skillicons.dev/icons?i=notion)
 
 ---
-
-## 📊 **GitHub Stats**
-<!-- ![Richmond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richmond003&show_icons=true&theme=radical)  -->
-[![Richmond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richmond003&show_icons=true&theme=radical&rank_icon=github&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richmond003&langs_count=20&layout=compact&theme=radical)
-
-
----
-
-### 🎨 **GitHub Activity**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richmond003&theme=radical)
-
----
-
-### 🚀 *"Building solutions, one line of code at a time!"* 🚀
 
 Thanks for visiting my profile! 😊
 
