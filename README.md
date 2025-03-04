@@ -14,13 +14,13 @@ I am a **Junior Computer Science student**, minoring in **Data Analysis** at **C
 ---
 
 ## 🌎 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/famoamahantwi)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/richmond003)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Linf13)
 &nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](your-twitter-link)
 
-📧 **Email:** [richmondbhnyantakyi@gmail.com](mailto:richmondbhnyantakyi@gmail.com)
+📧 **Email:** [forlinfamoamahantwi@gmail.com](mailto:forlinfamoamahantwi@gmail.com)
 
 ---
 
